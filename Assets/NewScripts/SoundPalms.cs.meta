@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7a76bda327adc134d9c7f1fa0065f55c
+timeCreated: 1535079381
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - palms: {fileID: 8300000, guid: 0f395119038f5f84a9da6e4c627011d2, type: 3}
+  - audioSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

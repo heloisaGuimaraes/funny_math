@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: e1242924866b2424ba4820e6e83cc293
+timeCreated: 1531827243
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - soundPlayer: {instanceID: 0}
+  - c1: {instanceID: 0}
+  - c2: {instanceID: 0}
+  - c3: {instanceID: 0}
+  - c4: {instanceID: 0}
+  - cadA: {fileID: 21300038, guid: bf0a75dc004bcae43b0b74e361c43058, type: 3}
+  - cadF: {fileID: 21300066, guid: bf0a75dc004bcae43b0b74e361c43058, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/mainScene.unity
+    guid: 96cb1c2b880e27043bdbf452fe039b7b
+  - enabled: 1
+    path: Assets/Scenes/SelecionarNiveis.unity
+    guid: 6590abb6681b28c459dc814af6b7184d
+  - enabled: 1
+    path: Assets/Scenes/creditos.unity
+    guid: eb9522a6813b1ed4f8050c8ec04630fc
+  - enabled: 1
+    path: Assets/Scenes/options.unity
+    guid: 8d487801c6a828b4b9bf0142fe7dc0ac
+  - enabled: 1
+    path: "Assets/Scenes/Refor\xE7os/conquistas.unity"
+    guid: 1cef4d1220619d74a8040ba643df0181
+  - enabled: 1
+    path: Assets/Scenes/TocarNumeros.unity
+    guid: 287a12ede7170cd49a4a73dff89a2004
+  - enabled: 1
+    path: Assets/Scenes/Bloqueio/BlockCN.unity
+    guid: 0736bf4ee28994c40853da66d2d42c6b
+  - enabled: 1
+    path: Assets/Scenes/Bloqueio/BlockSM.unity
+    guid: 93234bfbc88c45e4c941e2c79ca94c7c
+  - enabled: 1
+    path: Assets/Scenes/Conhendo os numeros/Level1.unity
+    guid: e3ebaa48121e38643a518e247857b573
+  - enabled: 1
+    path: Assets/Scenes/Conhendo os numeros/Level2_1.unity
+    guid: 14cf2574f35418f49b5f0288555eaa03
+  - enabled: 1
+    path: Assets/Scenes/Conhendo os numeros/Level2_2.unity
+    guid: db3e560f8adfc434a99aeb116028904d
+  - enabled: 1
+    path: Assets/Scenes/Conhendo os numeros/Level2_3.unity
+    guid: da110aecb9192fb458715bb9987df90a
+  - enabled: 1
+    path: Assets/Scenes/Conhendo os numeros/Level3.unity
+    guid: 479476e7f46d94848bfaed7a46ac96a1
+  - enabled: 1
+    path: Assets/Scenes/Conhendo os numeros/Level4.unity
+    guid: a5faf26105eff134599b1f99a17724c3
+  - enabled: 1
+    path: Assets/Scenes/Conhendo os numeros/Level5.unity
+    guid: d39a216db8002d347b755b5951a1440e
+  - enabled: 1
+    path: Assets/Scenes/Conhendo os numeros/Level6_1.unity
+    guid: 084c42d8d58de154bb13f80938d005b5
+  - enabled: 1
+    path: Assets/Scenes/Conhendo os numeros/Level6_2.unity
+    guid: c879a1d9951e8ae439834a5c245c0f01
+  - enabled: 1
+    path: Assets/Scenes/Conhendo os numeros/Level6_3.unity
+    guid: ecf99e6756c47b54095455b9fbc31b15
+  - enabled: 1
+    path: Assets/Scenes/Soma/Level1Sm.unity
+    guid: 1f19c0d53300a204592acf785538ab15
+  - enabled: 1
+    path: Assets/Scenes/Soma/Level2Sm.unity
+    guid: 7617bd334a26f374ebb09afd107c493c
+  - enabled: 1
+    path: Assets/Scenes/Soma/Level3Sm.unity
+    guid: 1a97e7badf0e28b4a9e2f940dce99b6b
+  - enabled: 1
+    path: Assets/Scenes/Soma/Level4Sm.unity
+    guid: 3efad0f8af795134baf383fa17dfcf91
+  - enabled: 1
+    path: Assets/Scenes/Soma/Level5Sm.unity
+    guid: 1ad71283be75021419b0b023bc39a089
+  - enabled: 1
+    path: Assets/Scenes/Soma/Level6Sm.unity
+    guid: d5d9e770c3537194b8a3264412aa12fd
+  - enabled: 1
+    path: Assets/Scenes/Bloqueio/BlockSB.unity
+    guid: 7e0e887f67132144c94b6dcf2a355a19
+  - enabled: 1
+    path: Assets/Scenes/Subtracao/Level1Sb.unity
+    guid: 3cf9987b950d6cc4492e48667c29c664
+  - enabled: 1
+    path: Assets/Scenes/Subtracao/Level2Sb.unity
+    guid: ce92a745ada9a364abbccf91325a5d03
+  - enabled: 1
+    path: Assets/Scenes/Subtracao/Level3Sb.unity
+    guid: 788d4246867f58f4fa331aa71ead4251
+  - enabled: 1
+    path: Assets/Scenes/Subtracao/Level4Sb.unity
+    guid: 819349e8066a37547b05f9b3d0c87597
+  - enabled: 1
+    path: Assets/Scenes/Subtracao/Level5Sb.unity
+    guid: 43e51dce99d48684ca36179768b58bb7
+  - enabled: 1
+    path: Assets/Scenes/Subtracao/Level6Sb.unity
+    guid: 88397f214160d6b4786df7fba1856b91
+  - enabled: 1
+    path: Assets/Scenes/Bloqueio/BlockMu_Di.unity
+    guid: f7f1972b747ce274fbc7c1eaf790436c
+  - enabled: 1
+    path: Assets/Scenes/Multiplicacao/Multiplicacao.unity
+    guid: 4e11890db2a986a469c1459f41b67ed0
+  - enabled: 1
+    path: Assets/Scenes/Multiplicacao/Multiplicacao_2.unity
+    guid: b1efc4b3245b91b409a0e5d3b99fb412
+  - enabled: 1
+    path: Assets/Scenes/Multiplicacao/Multiplicacao_3.unity
+    guid: 0cbda946eb3e48e4b85a66073b64c36b
+  - enabled: 1
+    path: Assets/Scenes/Divisao/Divisao.unity
+    guid: bbd77679f0aa7394b84f6e31247d4ce6
+  - enabled: 1
+    path: Assets/Scenes/Divisao/Divisao_2.unity
+    guid: 8fd111063d2cfe041b67d2dab1f0b4e5
+  - enabled: 1
+    path: Assets/Scenes/Divisao/Divisao_3.unity
+    guid: 73244a6a03b7bee4a82f3e1eb09c2e0f
+  - enabled: 1
+    path: "Assets/Scenes/Refor\xE7os/Reforco.unity"
+    guid: fbeab75671b45bb4e8823d222ad3c582
+  - enabled: 1
+    path: "Assets/Scenes/Refor\xE7os/Reforco2.unity"
+    guid: a168286f6c0a4ae429138cc6e68e9f16
+  - enabled: 1
+    path: "Assets/Scenes/Refor\xE7os/Reforco3.unity"
+    guid: dc0d894ff83125445b79a523c13b629e
+  - enabled: 1
+    path: "Assets/Scenes/Refor\xE7os/Reforco4.unity"
+    guid: e6f8d0aeac9936c47a03740e2368bdf2

@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: NumAtlas
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 271eff02079a9c9438ea3a2c962f4d1d, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 7da0cc1649e333e4cb13c269833f936c, type: 3}
+  - {fileID: 21300000, guid: 411eb72df9ae20f41ac891a048f9e854, type: 3}
+  - {fileID: 21300000, guid: 357114c947639ff46867ff88a2fd5bab, type: 3}
+  - {fileID: 21300000, guid: 8bca5fd4c278b4f42bb1dc895dbda6e4, type: 3}
+  - {fileID: 21300000, guid: 7e812e2251a96304cb5c53ef3261e6fa, type: 3}
+  - {fileID: 21300000, guid: ff1c2741e3491954b8be14f69da29db3, type: 3}
+  - {fileID: 21300000, guid: 95ca15a86cebd344882bc6cd079ccd3f, type: 3}
+  - {fileID: 21300000, guid: 6959092587a76e34397f61f1d738cf93, type: 3}
+  - {fileID: 21300000, guid: 562ec6302765806409ca83903fb592be, type: 3}
+  - {fileID: 21300000, guid: f2c46e8a2c00ee5448c7b62051266e2a, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - n1
+  - n0
+  - n3
+  - n2
+  - n5
+  - n4
+  - n7
+  - n6
+  - n9
+  - n8
+  m_Tag: NumAtlas
+  m_IsVariant: 0

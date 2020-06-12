@@ -1,0 +1,34 @@
+fileFormatVersion: 2
+guid: c6207c184df21fa48837fafd4cfdaee3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - next: {fileID: 8300000, guid: 2fa2acaa645c8ce4ebb8a4c3181d5235, type: 3}
+  - previous: {fileID: 8300000, guid: ebd5d7ce18f5f8d4b88175bd2c699d76, type: 3}
+  - correct: {fileID: 8300000, guid: 155de6f263b46eb46b2649d342bb52d6, type: 3}
+  - wrong: {fileID: 8300000, guid: e4b33965e60c4e84084287b48e159bf1, type: 3}
+  - div: {fileID: 8300000, guid: 7eabc64b1f72da24e9ad053395c924d4, type: 3}
+  - l1: {fileID: 8300000, guid: 98162cedcfb201447b2276efb6dc6671, type: 3}
+  - l2: {fileID: 8300000, guid: 1547c9185c32cfe4e8db87029a4d3832, type: 3}
+  - l3: {fileID: 8300000, guid: 694b8f2a0116cfc42bcabb6d7bc0e472, type: 3}
+  - l4: {fileID: 8300000, guid: e4ef36f6efaac394e9556a298afff3bb, type: 3}
+  - l5: {fileID: 8300000, guid: b1ff98945e8001a4e9d870ffdac34c76, type: 3}
+  - l1sm: {fileID: 8300000, guid: d1ee96ce627301d4cbb8a7e47161c952, type: 3}
+  - l2sm: {fileID: 8300000, guid: 3378965bd27eeb949850c1dca5963da0, type: 3}
+  - l3sm: {fileID: 8300000, guid: d86e7a09731c7944cb28951e53067e2b, type: 3}
+  - l4sm: {fileID: 8300000, guid: a8dc23e635123dc45a9c52060c3c5e77, type: 3}
+  - l1sb: {fileID: 8300000, guid: 49f30cc3f81bae742a14a78ab8935442, type: 3}
+  - l2sb: {fileID: 8300000, guid: f411f67a2ffce2c47acad092d418a6d3, type: 3}
+  - l3sb: {fileID: 8300000, guid: ceb6a3af9842333419e4e14847cffe44, type: 3}
+  - l4sb: {fileID: 8300000, guid: 48eb1a21cd856e04f895e069df772c77, type: 3}
+  - mult: {fileID: 8300000, guid: 39687545af63f9c4784b3ebcf63701f2, type: 3}
+  - reforco: {fileID: 8300000, guid: 8976715b7c108d34894542962f82b420, type: 3}
+  - parabens: {fileID: 8300000, guid: ef76c8ce87e71844482cd60222dde841, type: 3}
+  - muitoBem: {fileID: 8300000, guid: 7bf91d26f6225114c9429b3530413c4a, type: 3}
+  - audioSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

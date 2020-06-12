@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 55a0288fc373825479f763e2a1264d7b
+timeCreated: 1535510234
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - btn1: {instanceID: 0}
+  - bauFechado: {fileID: 21300000, guid: 3cdebff01fe2b5a4b8e45a222d5f8599, type: 3}
+  - bauAberto: {fileID: 21300000, guid: e562cde8d0a851a46a9ed0789a9a6e21, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
